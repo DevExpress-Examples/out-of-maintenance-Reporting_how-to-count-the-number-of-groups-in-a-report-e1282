@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/GroupsCount/Form1.cs) (VB: [Form1.vb](./VB/GroupsCount/Form1.vb))
+<!-- default file list end -->
 # How to count the number of groups in a report
 
 
